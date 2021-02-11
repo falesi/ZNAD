@@ -149,11 +149,11 @@ body {
       color: #444; }
 
 .btn-success {
-  background-color: #00ab9f;
-  border-color: #00ab9f; }
+  background-color: #BA0600;
+  border-color: #BA0600; }
   .btn-success:hover {
-    background-color: #00ab9f !important;
-    border-color: #00ab9f !important; }
+    background-color: #DA302A !important;
+    border-color: #DA302A !important; }
   .btn-success:active {
     background-color: #00ab9f !important;
     border-color: #00ab9f !important; }
@@ -277,7 +277,7 @@ body {
       font-size: 13px; }
 
 .box-de {
-  background-color: rgba(0, 171, 159, 0.73);
+  background-color: #211e4d;
   display: flex; }
   .box-de .ditk-inf {
     margin: auto;
